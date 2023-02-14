@@ -1,0 +1,16 @@
+.saudacao{
+    
+    text-align:center;
+    align-items: center;
+}
+
+h1{
+    font-size: 55px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+}
